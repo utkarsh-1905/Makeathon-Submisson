@@ -1,0 +1,6 @@
+[submodule "Makeathon-BEML-GUI"]
+	path = Makeathon-BEML-GUI
+	url = https://github.com/utkarsh-1905/Makeathon-BEML-GUI.git
+[submodule "Makeathon-BEML-App"]
+	path = Makeathon-BEML-App
+	url = https://github.com/destrex271/Makeathon-BEML-App.git
